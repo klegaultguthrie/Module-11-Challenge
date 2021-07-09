@@ -19,7 +19,8 @@ The purpose of this analysis is to allow users to acces a webpage where they can
 
 ### Performing a Search
 Navigate to the webpage. The title 'THE TRUTH IS OUT THERE' will be displayed. A 'Filter Search' is displayed. Poppulate the desired fields:
-https://github.com/klegaultguthrie/Module-11-Challenge/blob/main/images/Search.png
+
+![Fig] (https://github.com/klegaultguthrie/Module-11-Challenge/blob/main/images/Search.png)
 
 ###Summary:
 
